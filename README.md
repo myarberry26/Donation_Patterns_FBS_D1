@@ -46,7 +46,7 @@ Final Project Spring 2020
 \begin{document}
 \begin{flushleft}
 ~~~~~~
-\textbf{ReadMe}
+\textbf{ReadMe.tex}
 ~~~~~~
 \section{Getting Started}
 There is a csv file that will need to be downloaded under the Data folder 
